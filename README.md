@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Quantum Cryptography Educational Platform
 
 A complete simulation platform to learn and visualize how Quantum Key Distribution (QKD) protocols work. This visual platform allows you to interact with actual quantum physics simulations representing fundamental protocols like **BB84** and **E91**.
@@ -25,7 +24,3 @@ This will automatically launch two PowerShell windows:
 1. The Python FastAPI backend API (Running on http://localhost:8000)
 2. The Next.js frontend Dashboard (Running on http://localhost:3000)
 
-Navigate to `http://localhost:3000` to interact with the dashboard.
-=======
-# quantum-cryptography
->>>>>>> de64476d35aadb4fc74386029965f1874fe79a72
